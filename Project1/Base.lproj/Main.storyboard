@@ -830,7 +830,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="450" height="400"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <subviews>
-                            <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="bmn-6i-XHS">
+                            <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="1" verticalCompressionResistancePriority="1" translatesAutoresizingMaskIntoConstraints="NO" id="bmn-6i-XHS">
                                 <rect key="frame" x="0.0" y="0.0" width="450" height="400"/>
                                 <constraints>
                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="400" id="hg1-Ta-vyq"/>
